@@ -9,6 +9,8 @@ ECharts简单入门
 
 #gauge 仪表图
 
+#map + lines 地图
+
 #title 标题
 
 #toolbox 工具
