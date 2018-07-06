@@ -11,6 +11,12 @@ ECharts简单入门
 
 #map + lines 地图
 
+#scatter 散点图
+
+#kline K线图
+
+#radar 雷达图
+
 #title 标题
 
 #toolbox 工具
